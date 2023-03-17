@@ -1,4 +1,6 @@
-
+.slide{
+    height: 800px;
+}
 .effect{
     overflow: hidden;
 }
